@@ -12,7 +12,6 @@ This repository contains the code, experimental notebooks, and supplementary mat
 
 - `/data_preparation`: Contains scripts related to data ingestion from Parquet files, schema unification, data cleaning, and feature engineering using Polars.
 - `/modeling`: Includes Jupyter notebooks and/or Python scripts detailing the training, hyperparameter optimization (using Optuna and Genetic Algorithms), and evaluation of various churn prediction models (e.g., XGBoost, BiGRU).
-- `/results`: May contain saved model artifacts, key performance metrics tables, SHAP value plots, and other visualizations..
 
 ## Technologies Used
 
