@@ -30,5 +30,5 @@ This repository contains the code, experimental notebooks, and supplementary mat
 
 (Optional: Include instructions if you want to guide the reviewer on how to run specific parts)
 
-1.  The main experimental notebooks can be found in the `/modeling` directory. For example, `XGBoost_Optimization.ipynb` details the XGBoost model experiments.
+1.  The main experimental notebooks can be found in the `/modeling` directory. For example, `xgboost.ipynb` details the XGBoost model experiments.
 2.  Data source: The project uses proprietary transaction data (approx. 150 GB) which is not included in this repository due to confidentiality.
